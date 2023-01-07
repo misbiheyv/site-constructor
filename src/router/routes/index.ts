@@ -1,3 +1,3 @@
-import TestComponent from "@/components/TestComponent/TestComponent.vue";
+import TestComponent from '@/components/TestComponent/TestComponent.vue'
 
-export default [{ name: "main", path: "/", component: TestComponent }];
+export default [{ name: 'main', path: '/', component: TestComponent }]
